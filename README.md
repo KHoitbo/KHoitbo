@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+* Studying Computer Engineering at San Diego State University
+* Interested in Hardware, but willing and open to learn anything
+* Love to play Video Games and Card Games
 <!--
 **KHoitbo/KHoitbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
